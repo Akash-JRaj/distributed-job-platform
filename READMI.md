@@ -1,1 +1,0 @@
-# Distributed Job Platform
